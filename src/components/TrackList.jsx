@@ -1,5 +1,3 @@
-import React from 'react';
-
 function TrackList({ tracks, handlePlay, handleStop, audioRefs, playingTrack, loadingTrack }) {
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 text-sm">

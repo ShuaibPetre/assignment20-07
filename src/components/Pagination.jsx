@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Pagination = ({ currentPage, totalPages, setCurrentPage, manualPage, setManualPage, goToManualPage }) => (
   <div className="mt-6">
     <div className="flex justify-center items-center gap-2 mb-2">

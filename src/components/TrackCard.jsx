@@ -1,5 +1,3 @@
-import React from 'react';
-
 const TrackCard = ({ track, index, handlePlay, handleStop, audioRef }) => (
   <div className="flex items-center gap-4 border-b pb-2">
     <img

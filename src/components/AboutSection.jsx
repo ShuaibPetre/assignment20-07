@@ -1,5 +1,3 @@
-import React from 'react';
-
 const AboutSection = ({ about }) => {
   if (!about) return null;
 
