@@ -1,4 +1,4 @@
-# React Timeline Viewer
+# React Track Player
 
 A simple React application that displays and plays track data fetched from a remote JSON API.
 
